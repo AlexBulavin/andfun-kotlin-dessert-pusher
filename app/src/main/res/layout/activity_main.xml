@@ -108,6 +108,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="sans-serif-medium"
             android:text="@string/dessert_sold"
+            android:textColor="@color/grey"
             android:textSize="@dimen/medium_text_size"
             app:layout_constraintBottom_toBottomOf="@+id/amount_sold_text"
             app:layout_constraintStart_toStartOf="@+id/margin_start_guide" />
